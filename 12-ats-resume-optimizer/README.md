@@ -67,7 +67,7 @@ overall = 0.6 × semantic_fit + 0.4 × keyword_coverage
 
 Section scores are embedding-based only and answer "which part of my resume is dragging the match down?"
 
-## Honesty guarantees (no fabrication)
+## Honesty guarantees
 
 This tool is deliberately conservative — an optimizer that lies gets candidates rejected in interviews:
 
