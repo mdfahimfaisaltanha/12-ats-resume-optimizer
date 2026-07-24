@@ -1,0 +1,27 @@
+{
+  "name": "ats-resume-optimizer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered ATS resume optimizer: semantic match scoring, keyword gap analysis, bullet rewriting, and PDF export.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "sample:pdf": "node scripts/make-sample-pdf.mjs"
+  },
+  "dependencies": {
+    "mammoth": "^1.8.0",
+    "next": "14.2.15",
+    "openai": "^4.67.0",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}

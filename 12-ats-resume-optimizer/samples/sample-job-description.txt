@@ -1,0 +1,27 @@
+Senior Full-Stack Engineer (Next.js / Node.js) — FinFlow Technologies
+
+About the role
+FinFlow builds payment analytics tooling for mid-market e-commerce companies. We are hiring a Senior Full-Stack Engineer to own features end-to-end across our Next.js dashboard and Node.js services.
+
+What you'll do
+- Design, build, and ship user-facing features in Next.js (App Router) and TypeScript
+- Build and maintain REST and internal APIs in Node.js, backed by PostgreSQL
+- Improve performance of high-traffic dashboard pages (Core Web Vitals, query optimization)
+- Integrate third-party APIs including Stripe and internal event pipelines using Redis
+- Write automated tests (unit and integration) and participate in code review
+- Collaborate with product and design; mentor junior engineers
+
+What we're looking for
+- 4+ years of professional software engineering experience
+- Strong TypeScript, React, and Next.js experience in production
+- Solid Node.js backend experience: API design, authentication, background jobs
+- Experience with PostgreSQL schema design and query optimization
+- Experience with Redis for caching or queues
+- Familiarity with Stripe or other payment APIs
+- CI/CD experience (GitHub Actions preferred) and Docker
+- Excellent written communication
+
+Nice to have
+- Experience with AWS (ECS, RDS, S3)
+- Experience with data visualization libraries (Recharts, D3)
+- Prior fintech or payments domain experience

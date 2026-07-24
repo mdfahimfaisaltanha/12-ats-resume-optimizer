@@ -1,0 +1,33 @@
+Rafiul Hasan
+Dhaka, Bangladesh | rafiul.hasan@example.com | +880 1700-000000 | github.com/rafiulhasan | linkedin.com/in/rafiulhasan
+
+SUMMARY
+Full-stack developer with 5 years of experience building web applications with React, Next.js, and Node.js. Comfortable owning features from database schema to UI.
+
+SKILLS
+JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Redis, Docker, Git, GitHub Actions, REST APIs, Tailwind CSS
+
+EXPERIENCE
+
+Software Engineer — Karkhana Digital, Dhaka
+Jan 2023 – Present
+- Responsible for developing dashboard features for an e-commerce analytics product
+- Worked on backend APIs in Node.js and Express with PostgreSQL
+- Helped with improving page load speed of the main dashboard
+- Built an internal reporting tool used by the operations team
+- Participated in code reviews and helped junior developers
+
+Junior Software Engineer — BrightSoft Solutions, Dhaka
+Mar 2021 – Dec 2022
+- Worked on frontend development using React and Redux
+- Responsible for fixing bugs and maintaining legacy jQuery code
+- Helped integrate a payment gateway into the checkout flow
+- Wrote documentation for the frontend codebase
+
+EDUCATION
+
+BSc in Computer Science and Engineering — BRAC University
+2016 – 2020
+
+PROJECTS
+Open-source contributor to a popular React component library. Built a personal finance tracker app with Next.js and MongoDB.
